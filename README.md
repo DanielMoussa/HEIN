@@ -4,12 +4,12 @@ Unlock a seamless and secure user experience with HEIN, a Flutter application th
 
 ## Features:
 
-    User-friendly authentication: Effortlessly create new accounts or sign in using email, phone number, or social media logins.
-    Secure password storage: Protect user data with hashing and encryption.
-    Intuitive account management: Empower users to edit profiles, update information, and manage settings.
-    Secure logout functionality: Ensure data protection with a single tap.
-    Cross-platform compatibility: Run seamlessly on iOS and Android devices.
-    Modern and responsive UI: Deliver a visually appealing and intuitive experience.
+# User-friendly authentication: Effortlessly create new accounts or sign in using email, phone number, or social media logins.
+# Secure password storage: Protect user data with hashing and encryption.
+# Intuitive account management: Empower users to edit profiles, update information, and manage settings.
+# Secure logout functionality: Ensure data protection with a single tap.
+# Cross-platform compatibility: Run seamlessly on iOS and Android devices.
+# Modern and responsive UI: Deliver a visually appealing and intuitive experience.
 
 ## Technologies:
 

@@ -1,5 +1,5 @@
 class API {
-  static const hostConnect = "http://localhost/api_clothes_store";
+  static const hostConnect = "http://heinclothing.000webhostapp.com/api_clothes_store";
   static const hostConnectUser = "$hostConnect/user";
 
   static const signUp = "$hostConnect/user/signUp.php";
